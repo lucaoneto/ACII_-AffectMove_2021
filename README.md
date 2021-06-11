@@ -14,4 +14,4 @@ Task | Algorithm | Accuracy | F1-0 | F1-1 | MCC
 3	| RF | 0.76 | 0.76 | 0.76 | 0.53
 **3**	| **XGBoost**	| **0.77** | **0.78** | **0.76** | **0.56**
 
-More detail are available in paper [Keep it Simple: Handcrafting Feature and Tuning Random Forests and XGBoost to face the Affective Movement Recognition Challenge 2021]
+More detail are available in paper [Keep it Simple: Handcrafting Feature and Tuning Random Forests and XGBoost to face the Affective Movement Recognition Challenge 2021](http://..)
